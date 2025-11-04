@@ -4,7 +4,7 @@ description: "Explore how AI is revolutionizing healthcare, from precision diagn
 slug: "the-ai-revolution-in-healthcare-transforming-patient-care-medical-innovation"
 keywords: ["AI healthcare", "Medical AI", "Healthcare technology", "Digital health", "AI in medicine", "Future of healthcare", "Healthcare innovation", "Precision medicine", "AI diagnostics", "AI treatment", "How AI is transforming healthcare", "Benefits of artificial intelligence in healthcare", "Challenges of AI implementation in hospitals", "AI tools for disease diagnosis", "Machine learning applications in medical research", "Ethical considerations of AI in healthcare", "Impact of AI on patient care", "AI-powered drug discovery platforms", "Personalized medicine through AI", "Wearable tech and AI for health monitoring", "AI in preventive healthcare", "Future of medical imaging with AI", "AI for administrative tasks in healthcare", "Robotics in surgery with AI", "AI solutions for chronic disease management", "Data privacy in AI healthcare systems", "AI-driven virtual assistants for patients", "Predictive analytics in healthcare using AI", "AI startups in healthcare funding", "Global market for AI in healthcare"]
 pubDate: "Oct 27 2025"
-heroImage: "/public/ai-healthcare-future-medical-innovation.png"
+heroImage: "/ai-healthcare-future-medical-innovation.png"
 heroImageAlt: "A vivid, cinematic hero image representing the blog topic"
 category: "Healthcare Technology & AI"
 author: "HiFi Studio AI"
