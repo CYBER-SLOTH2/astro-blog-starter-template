@@ -3,7 +3,7 @@
 title: The Rise of AI in Mental Health: Innovations, Ethics, and Future Outlook
 description: Explore the transformative impact of AI in mental health, from innovative apps and virtual therapy to ethical considerations, challenges, and the promising future outlook of AI psychological support.
 slug: ai-mental-health-innovations-ethics-future
-pubDate: 2023-10-27T10:00:00Z
+pubDate: 2023-10-27
 heroImage:
   src: /public/ai-mental-health-futuristic-brain.png
   alt: A futuristic digital brain intertwined with circuitry, representing artificial intelligence in mental health.
