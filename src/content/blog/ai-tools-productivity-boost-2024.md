@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Boost Your Day: Top AI Tools for Unstoppable Productivity in 2024"
 description: "Discover the best AI productivity tools, from task management to content creation, designed to revolutionize your workflow and boost efficiency in 2024. Unleash unstoppable productivity with AI automation software, personal AI assistants, and more for individuals, businesses, freelancers, and students."
