@@ -7,7 +7,7 @@ pubDate: "Oct 26 2024"
 heroImage: "/the-future-is-now-ai-revolutionizing-personalized-learning-education-cover.png"
 heroImageAlt: "A futuristic classroom scene with students interacting with AI interfaces and virtual assistants, symbolizing personalized learning and advanced educational technology."
 category: "Education Technology"
-author: "HiFi Studio AI"
+author: "HiFi Studio And Mobile"
 readingTime: "15 min"
 ---
 
