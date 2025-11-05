@@ -13,7 +13,7 @@ readingTime: "20 min"
 
 # The AI Revolution in Healthcare: Transforming Patient Care & Medical Innovation
 
-![A vivid, cinematic hero image representing the blog topic](/public/ai-healthcare-future-medical-innovation.png)
+![A vivid, cinematic hero image representing the blog topic](/ai-healthcare-future-medical-innovation.png)
 
 ## Introduction
 
