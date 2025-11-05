@@ -4,7 +4,7 @@ description: "Explore how AI is transforming education, offering personalized le
 slug: "the-future-is-now-ai-revolutionizing-personalized-learning-education"
 keywords: ["AI education", "personalized learning AI", "AI tutors", "future of education AI", "AI learning platforms", "adaptive learning technology", "EdTech AI", "AI in classrooms", "student personalized learning", "AI educational tools", "benefits of AI in education", "AI-driven learning paths", "customized education AI", "AI for student engagement", "personalized teaching AI", "machine learning in education", "AI educational software", "impact of AI on learning", "AI study tools", "revolutionizing education with AI", "AI adaptive assessment", "personalized learning experience AI", "AI curriculum development", "future of personalized learning", "AI role in modern education", "virtual AI tutors", "AI-powered homework help", "personalized education technology", "AI for learning disabilities", "ethical AI in education"]
 pubDate: "Oct 26 2024"
-heroImage: "/images/the-future-is-now-ai-revolutionizing-personalized-learning-education-cover.webp"
+heroImage: "/the-future-is-now-ai-revolutionizing-personalized-learning-education-cover.png"
 heroImageAlt: "A futuristic classroom scene with students interacting with AI interfaces and virtual assistants, symbolizing personalized learning and advanced educational technology."
 category: "Education Technology"
 author: "HiFi Studio AI"
@@ -13,7 +13,7 @@ readingTime: "15 min"
 
 # The Future is Now: How AI is Revolutionizing Personalized Learning and Education
 
-![A futuristic classroom scene with students interacting with AI interfaces and virtual assistants, symbolizing personalized learning and advanced educational technology.](/images/the-future-is-now-ai-revolutionizing-personalized-learning-education-cover.webp)
+![A futuristic classroom scene with students interacting with AI interfaces and virtual assistants, symbolizing personalized learning and advanced educational technology.](/the-future-is-now-ai-revolutionizing-personalized-learning-education-cover.png)
 
 ## Introduction
 
