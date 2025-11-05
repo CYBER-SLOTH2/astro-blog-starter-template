@@ -7,7 +7,7 @@ hero: "/ai-productivity-tools-futuristic-desk.png"
 heroAlt: "A futuristic desk setup with a glowing AI interface, symbolizing enhanced productivity through artificial intelligence."
 ---
 
-![A futuristic desk setup with a glowing AI interface, symbolizing enhanced productivity through artificial intelligence.](/ai-productivity-tools-futuristic-desk.png)
+![A futuristic desk setup with a glowing AI interface, symbolizing enhanced productivity through artificial intelligence.](/public/ai-productivity-tools-futuristic-desk.png)
 
 # Boost Your Day: Top AI Tools for Unstoppable Productivity in 2024
 
