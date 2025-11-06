@@ -1,10 +1,10 @@
 ---
 import Layout from "../layouts/BaseLayout.astro";
 
-const posts = await Astro.glob("../content/blog/*.md"); // adjust if your folder differs
+const posts = await Astro.glob("../content/blog/*.md");
 
 // Sort newest → oldest
-posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+posts.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
 ---
 
 <Layout title="HiFi Studio & Mobile — Tech Tips, Mobile Reviews & Gadget Guides">
@@ -23,16 +23,16 @@ posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
     <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
       {posts.map((post) => (
         <a href={post.url} class="block border rounded-lg overflow-hidden hover:shadow-lg transition">
-          {post.frontmatter.image && (
-            <img src={post.frontmatter.image} alt={post.frontmatter.title} class="w-full h-40 object-cover" />
+          {post.data.image && (
+            <img src={post.data.image} alt={post.data.title} class="w-full h-40 object-cover" />
           )}
           <div class="p-4">
-            <h3 class="font-semibold text-lg mb-2">{post.frontmatter.title}</h3>
-            {post.frontmatter.description && (
-              <p class="text-sm opacity-75">{post.frontmatter.description}</p>
+            <h3 class="font-semibold text-lg mb-2">{post.data.title}</h3>
+            {post.data.description && (
+              <p class="text-sm opacity-75">{post.data.description}</p>
             )}
             <p class="text-xs mt-3 opacity-60">
-              {new Date(post.frontmatter.date).toLocaleDateString()}
+              {post.data.date ? new Date(post.data.date).toLocaleDateString() : ""}
             </p>
           </div>
         </a>
