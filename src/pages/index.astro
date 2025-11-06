@@ -1,58 +1,42 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import Layout from "../layouts/BaseLayout.astro";
+
+const posts = await Astro.glob("../content/blog/*.md"); // adjust if your folder differs
+
+// Sort newest → oldest
+posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 ---
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{SITE_TITLE}</title>
-    <meta name="description" content={SITE_DESCRIPTION} />
-    <meta property="og:title" content={SITE_TITLE} />
-    <meta property="og:description" content={SITE_DESCRIPTION} />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="/logo.png" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={SITE_TITLE} />
-    <meta name="twitter:description" content={SITE_DESCRIPTION} />
-    <meta name="twitter:image" content="/logo.png" />
-  </head>
+<Layout title="HiFi Studio & Mobile — Tech Tips, Mobile Reviews & Gadget Guides">
+  <!-- HERO SECTION -->
+  <section class="w-full bg-gray-900 text-white py-16 px-6 text-center">
+    <h1 class="text-4xl font-bold mb-3">HiFi Studio & Mobile</h1>
+    <p class="text-lg opacity-90 max-w-2xl mx-auto">
+      Your daily guide for smartphones, repairs, gadgets, speakers & smart accessories.
+    </p>
+  </section>
 
-  <body>
-    <Header />
+  <!-- LATEST BLOG POSTS -->
+  <section class="container mx-auto py-12 px-6">
+    <h2 class="text-2xl font-semibold mb-6">Latest Posts</h2>
 
-    <main style="max-width:900px; margin:2rem auto; padding:0 1rem;">
-      <section style="text-align:center; margin-bottom:3rem;">
-        <img src="/logo.png" alt="{SITE_TITLE} Logo" style="height:80px; margin-bottom:1rem;" />
-        <h1>{SITE_TITLE}</h1>
-        <p style="font-size:1.2rem; color:#555;">{SITE_DESCRIPTION}</p>
-      </section>
-
-      <section>
-        <h2>Latest Blog Posts</h2>
-        <p>Check out our latest tips, reviews, and news about HiFi audio and mobile gadgets.</p>
-        <ul>
-          <li><a href="/blog/best-mobile-gadgets-2025">Best Mobile Gadgets of 2025</a></li>
-          <li><a href="/blog/hifi-audio-tips">Top HiFi Audio Tips for Beginners</a></li>
-          <li><a href="/blog/smartphone-reviews">Smartphone Reviews You Can Trust</a></li>
-        </ul>
-      </section>
-
-      <section style="margin-top:3rem;">
-        <h2>Getting Started</h2>
-        <ul>
-          <li>Edit this page at <code>src/pages/index.astro</code></li>
-          <li>Edit the header links in <code>src/components/Header.astro</code></li>
-          <li>Add new blog posts in <code>src/content/blog/</code></li>
-          <li>Customize the blog post layout in <code>src/layouts/BlogPost.astro</code></li>
-        </ul>
-      </section>
-    </main>
-
-    <Footer />
-  </body>
-</html>
+    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => (
+        <a href={post.url} class="block border rounded-lg overflow-hidden hover:shadow-lg transition">
+          {post.frontmatter.image && (
+            <img src={post.frontmatter.image} alt={post.frontmatter.title} class="w-full h-40 object-cover" />
+          )}
+          <div class="p-4">
+            <h3 class="font-semibold text-lg mb-2">{post.frontmatter.title}</h3>
+            {post.frontmatter.description && (
+              <p class="text-sm opacity-75">{post.frontmatter.description}</p>
+            )}
+            <p class="text-xs mt-3 opacity-60">
+              {new Date(post.frontmatter.date).toLocaleDateString()}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+</Layout>
