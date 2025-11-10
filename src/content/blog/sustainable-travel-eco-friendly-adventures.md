@@ -4,7 +4,7 @@ description: "Discover how to embark on eco-friendly adventures with our compreh
 slug: "sustainable-travel-guide-eco-friendly-adventures"
 keywords: ["sustainable travel","eco-travel","green travel","responsible tourism","ethical travel","eco-tourism","carbon footprint travel","travel impact","conscious travel","eco-friendly vacations","how to travel sustainably","sustainable travel tips","eco-friendly travel gear","best sustainable travel destinations","reduce carbon footprint while traveling","ethical tourism practices","responsible travel packing list","sustainable travel for beginners","green hotels and resorts","eco-friendly transportation for travel","benefits of sustainable tourism","impact of tourism on environment","local sustainable travel experiences","budget sustainable travel","family sustainable travel tips","zero waste travel essentials","planning an eco-friendly trip","sustainable travel companies","how to choose responsible tour operators","minimizing plastic in travel"]
 pubDate: "Nov 04 2025"
-heroImage: "/sustainable-travel-hero-image.jpeg"
+heroImage: "/sustainable-travel-explore-nature.jpeg"
 heroImageAlt: "A vibrant illustration of a globe adorned with green leaves and hands gently cupping it, symbolizing eco-friendly travel and global stewardship."
 category: "Travel"
 author: "HiFi Studio And Mobile"
@@ -13,7 +13,7 @@ readingTime: "20 min"
 
 # Sustainable Travel: Your Guide to Eco-Friendly Adventures
 
-![A vibrant illustration of a globe adorned with green leaves and hands gently cupping it, symbolizing eco-friendly travel and global stewardship.](/sustainable-travel-hero-image.jpeg)
+![A vibrant illustration of a globe adorned with green leaves and hands gently cupping it, symbolizing eco-friendly travel and global stewardship.](/sustainable-travel-explore-nature.jpeg)
 
 ## Introduction: Embarking on a Greener Journey
 
