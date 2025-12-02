@@ -92,7 +92,7 @@ The integration of the NPU offers concrete, measurable improvements over older l
 ***
 
 `/image-topic.webp`
-![Diagram showing the internal components of an AI PC, highlighting the CPU, GPU, and the new NPU (Neural Processing Unit).](ai-pc-components-cpu-gpu-npu-diagram-38192.webp)
+![Diagram showing the internal components of an AI PC, highlighting the CPU, GPU, and the new NPU (Neural Processing Unit).](/ai-pc-components-cpu-gpu-npu-diagram-38192.webp)
 
 ***
 
@@ -135,7 +135,7 @@ These capabilities position the **AI PC for creatives** and knowledge workers wh
 ***
 
 `/image-topic.webp`
-![A user interacting with the new Microsoft Recall feature on a Copilot+ PC, with the timeline interface visible on screen.](microsoft-copilot-plus-recall-feature-in-action-74581.webp)
+![A user interacting with the new Microsoft Recall feature on a Copilot+ PC, with the timeline interface visible on screen.](/microsoft-copilot-plus-recall-feature-in-action-74581.webp)
 
 ***
 
@@ -219,7 +219,7 @@ These machines represent the vanguard of the market, offering efficient performa
 ***
 
 `/image-topic.webp`
-![A collage of different AI PC models from brands like Dell, HP, Samsung, and Microsoft, arranged on a clean background.](best-ai-pc-laptop-models-2024-showcase-91024.webp)
+![A collage of different AI PC models from brands like Dell, HP, Samsung, and Microsoft, arranged on a clean background.](/best-ai-pc-laptop-models-2024-showcase-91024.webp)
 
 ***
 
