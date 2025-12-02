@@ -82,7 +82,7 @@ For many users, the most immediate benefit of Apple Intelligence will be the int
 
 `/image-apple-intelligence-siri-writing-tools-67542.webp`
 
-![Illustration of the new smarter Siri and AI writing tools in Apple Intelligence on an iPad.](apple-intelligence-siri-writing-tools-67542.webp)
+![Illustration of the new smarter Siri and AI writing tools in Apple Intelligence on an iPad.](/apple-intelligence-siri-writing-tools-67542.webp)
 
 #### The Writing Assistant
 
@@ -122,7 +122,7 @@ Beyond generating images, Apple Intelligence enhances standard photo management.
 
 `/image-apple-intelligence-genmoji-image-playground-92183.webp`
 
-![A collage showcasing the creative possibilities of Genmoji and Image Playground from Apple Intelligence.](apple-intelligence-genmoji-image-playground-92183.webp)
+![A collage showcasing the creative possibilities of Genmoji and Image Playground from Apple Intelligence.](/apple-intelligence-genmoji-image-playground-92183.webp)
 
 ## Privacy First: Understanding Private Cloud Compute (PCC)
 
@@ -140,7 +140,7 @@ This system effectively provides the computational muscle of the cloud while mai
 
 `/image-apple-private-cloud-compute-privacy-11205.webp`
 
-![Abstract representation of Apple's Private Cloud Compute, emphasizing AI privacy and security.](apple-apple-private-cloud-compute-privacy-11205.webp)
+![Abstract representation of Apple's Private Cloud Compute, emphasizing AI privacy and security.](/apple-apple-private-cloud-compute-privacy-11205.webp)
 
 [Related: https://blog.hifistudio.in/blog/autonomous-ai-agents-next-revolution-smart-automation/ - Autonomous AI Agents: The Next Revolution in Smart Automation]
 
@@ -186,7 +186,7 @@ If you are looking to fully experience the new **iOS 18 AI** features, the hardw
 
 `/image-apple-intelligence-compatible-devices-release-date-48871.webp`
 
-![Lineup of devices compatible with Apple Intelligence, including iPhone 15 Pro, with the Fall 2024 release date shown.](apple-apple-intelligence-compatible-devices-release-date-48871.webp)
+![Lineup of devices compatible with Apple Intelligence, including iPhone 15 Pro, with the Fall 2024 release date shown.](/apple-apple-intelligence-compatible-devices-release-date-48871.webp)
 
 ## Release Timeline: When Can You Start Using It?
 
